@@ -4,7 +4,7 @@
 //
 //  Created by T.Murakawa on 2018/03/03.
 //  Copyright © 2018年 takeru murakawa. All rights reserved.
-//  yutaka branch henkou
+//  yutaka branch henkou 2
 
 import UIKit
 
